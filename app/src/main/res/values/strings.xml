@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Pizza</string>
+
+    <string name="create_order">Заказать пиццу</string>
+    <string name="create_title">Create order</string>
+    <string name="action_share">Share</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_top">Top fragment</string>
+    <string-array name="pizza">
+        <item>Diavolo</item>
+        <item>Funghi</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="pasta">
+        <item>Спагети бологнес</item>
+        <item>Чесночный</item>
+    </string-array>
+
+    <string-array name="stores">
+        <item>Кембридж</item>
+        <item>Себастопол</item>
+    </string-array>
+
+    <string name="home_tab">Главная</string>
+    <string name="pizza_tab">Пиццы</string>
+    <string name="pasta_tab">Пасты</string>
+    <string name="store_tab">Магазин</string>
+    <string name="company_name">Пицца Италия</string>
+    <string name="restaurant_image">Restaurant image</string>
+    <string name="home_text">Пицца Италия - готовим пиццу из итальянской муки и томатов,
+        посыпаем ее аргентинской моцареллой, добавляем самые вкусные начинки и печём ее прямо на камне, как научил наш бренд-шеф Виктор Титов.
+        Мы меняем представление о пицце!</string>
+    <string name="order_name_hint">Please enter your name</string>
+    <string name="order_details_hint">Please enter your order</string>
+    <string name="title_activity_splash">splash</string>
+</resources>
